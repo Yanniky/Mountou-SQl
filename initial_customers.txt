@@ -1,0 +1,8 @@
+customer_code	customer_name	customer_address	post_codes	city	region	country
+123	Richards Software	34 Galloway Rd	2311	Feilding	Manawatu	New Zealand
+124	Jones Small Goods	25 Wood St	2323	Palmerston North	Manawatu	New Zealand
+125	Barries Garden Shop	1111 Ritter Rd	3434	Auckland	Auckland	New Zealand
+126	Mary Smith	95 Scott St	2323	Feilding	Manawatu	New Zealand
+127	Darrells Meats	12 Hall Ave	4545	Auckland	Auckland	New Zealand
+128	Henry Adams	PO Box 344	5656	Christchurch	Canterbury	New Zealand
+129	"Hill, James, I."	88 Vivian Street	2323	Palmerston North	Manawatu	New Zealand
